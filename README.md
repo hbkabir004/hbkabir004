@@ -1,5 +1,3 @@
-![Programmer | Frontend Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/41832511_2084707211844455_5783219965674913792_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHNOTvhAdLpd3NwV-oeZaJhUOFusXmKAiFQ4W6xeYoCISH8ohMnIdH3gfCGCMnH8GC-nw1l9ZW9vgZXLwz22TCk&_nc_ohc=FsIPCVMYcbMAX-WNxcp&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9_Pjd7NuyCJRwacqGxWG6qHPBXwgvFO6mRDZEfcymXcA&oe=62D8B2A5)
-
 ### Hi there 👋, I'm ABIR
 #### Programmer | Frontend Developer
 

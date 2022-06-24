@@ -30,6 +30,6 @@ I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CS
 <a href="/https://hbkabir004.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hbkabir004.github.io" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbkabir004&show_icons=true&locale=en&layout=compact" alt="hbkabir004" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbkabir004&show_icons=true&locale=en&layout=compact&theme=radical" alt="hbkabir004" /></p>
 
 

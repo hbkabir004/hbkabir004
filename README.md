@@ -23,13 +23,15 @@ I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CS
 
 <h3 align="left">☕ Connect with me!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abircse004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abircse004" height="30" width="40" /></a>
+<a _blank href="https://linkedin.com/in/abircse004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abircse004" height="30" width="40" /></a>
 <a href="https://fb.com/abircse.nwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abircse.nwu" height="30" width="40" /></a>
 <a href="https://instagram.com/hbk_abir315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hbk_abir315" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aungstrome315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aungstrome315" height="30" width="40" /></a>
 <a href="/https://hbkabir004.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hbkabir004.github.io" height="30" width="40" /></a>
 </p>
+
 <br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbkabir004&show_icons=true&locale=en&layout=compact&theme=radical" alt="hbkabir004" /></p>
 
 

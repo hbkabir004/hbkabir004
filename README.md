@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm ABIR
-👑 I am Frontend Developer <br>
+👑 I am a Frontend Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 

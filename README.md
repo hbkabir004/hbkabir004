@@ -32,6 +32,24 @@ I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CS
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbkabir004&show_icons=true&locale=en&layout=compact&theme=radical" alt="hbkabir004" /></p>
+
+<a href="https://github.com/hbkabir004/Weather-Forecast-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=weather-forecast-website&theme=radical" />
+</a>
+<a href="https://github.com/hbkabir004/Feature-Optimization-using-Genetic-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=feature-optimization-using-genetic-algorithm&theme=radical" />
+</a>
+<a href="https://github.com/hbkabir004/SpeechToCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=speechtocode&theme=radical" />
+</a>
+<a href="https://github.com/hbkabir004/AmbuBD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=ambubd&theme=radical" />
+</a>
+<a href="https://github.com/hbkabir004/hbkabir004.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=hbkabir004.github.io&theme=radical" />
+</a>
+<a href="https://github.com/hbkabir004/Smart-Slider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=smart-slider&theme=radical" />
+</a>
 
 

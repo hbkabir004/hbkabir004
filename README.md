@@ -29,27 +29,3 @@ I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CS
 <a href="https://www.leetcode.com/aungstrome315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aungstrome315" height="30" width="40" /></a>
 <a href="https://hbkabir004.github.io/about/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hbkabir004.github.io" height="30" width="40" /></a>
 </p>
-
-<br>
-
-
-<a href="https://github.com/hbkabir004/Weather-Forecast-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=weather-forecast-website&theme=radical" />
-</a>
-<a href="https://github.com/hbkabir004/Feature-Optimization-using-Genetic-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=feature-optimization-using-genetic-algorithm&theme=radical" />
-</a>
-<a href="https://github.com/hbkabir004/SpeechToCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=speechtocode&theme=radical" />
-</a>
-<a href="https://github.com/hbkabir004/AmbuBD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=ambubd&theme=radical" />
-</a>
-<a href="https://github.com/hbkabir004/hbkabir004.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=hbkabir004.github.io&theme=radical" />
-</a>
-<a href="https://github.com/hbkabir004/Smart-Slider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=smart-slider&theme=radical" />
-</a>
-
-

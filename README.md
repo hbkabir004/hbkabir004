@@ -36,8 +36,7 @@ I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CS
 <a href="https://github.com/hbkabir004/Weather-Forecast-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=weather-forecast-website&theme=radical" />
 </a>
-<a href="https://github.com/hbkabir004/Feature-Optimization-using-Genetic-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=feature-optimization-using-genetic-algorithm&theme=radical" />
+
 </a>
 <a href="https://github.com/hbkabir004/SpeechToCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbkabir004&repo=speechtocode&theme=radical" />

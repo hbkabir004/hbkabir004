@@ -12,8 +12,9 @@ I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CS
 <p align="left">
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS <br>
-✅ Bootstrap / Tailwind <br>
-✅ React / Node JS <br>
+✅ Bootstrap / Tailwind CSS <br>
+✅ ReactJS  <br>
+✅ NodeJS / ExpressJS  <br>
 ✅ Firebase / MongoDB / SQL <br>
 ✅ OOP / JAVA/ C / C++ <br>
 ✅ Flutter / Dart / Jekyll <br>

@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 <p align="left">
-I am a Programmer and Frontend Developer. I've recently completed my B.Sc. in CSE. I am looking for a Job as a Frontend Developer to start my software development career professionally as well as to improve my teamwork ability and upgrade my skills and abilities to the next level.
+I am a Programmer and Frontend Developer. Recently completed my B.Sc. in CSE and want to be hired as a Frontend Developer to start my software development career professionally as well as to improve my teamwork ability and upgrade my skills and abilities to the next level.
 </p>
 
 <h3 align="left">👨‍💻 Skills & Experiance:</h3>

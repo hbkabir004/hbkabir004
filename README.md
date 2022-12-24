@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm ABIR
-👑 I am a Frontend Developer <br>
+👨‍💻 Front-End Web Developer at TOERUS <br>
 🖊️ Love to write code <br>
-👨‍💻 Working in TOERUS as a Front-End Web Developer <br>
+🎤 Like to share my knowledge <br>
+
 
 ### 🚀 About Me
 <p align="left">

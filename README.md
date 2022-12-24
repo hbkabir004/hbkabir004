@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm ABIR
 👑 I am a Frontend Developer <br>
 🖊️ Love to write code <br>
-🎤 Like to share my knowledge <br>
+👨‍💻 Working in TOERUS as a Front-End Web Developer <br>
 
 ### 🚀 About Me
 <p align="left">
-I am a Programmer and Frontend Developer. Recently completed my B.Sc. in CSE and want to be hired as a Frontend Developer to start my software development career professionally as well as to improve my teamwork ability and upgrade my skills and abilities to the next level.
+A fast learner and early adopter with proficiency in HTML5, CSS3, JavaScript, ES6, React, and so on including their modern frameworks and libraries. Currently available to work both solo and collaboratively.
 </p>
 
 <h3 align="left">👨‍💻 Skills & Experiance:</h3>

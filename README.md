@@ -1,15 +1,15 @@
-### Hi there 👋, I'm ABIR
-👨‍💻 <b>Front-End Web Developer</b> at <b>TOERUS<b/> <br>
+# Hi there 👋, I'm ABIR
+### 👨‍💻 Front-End Web Developer</b> at <b>TOERUS<b/>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 
 
-### 🚀 About Me
+## 🚀 About Me
 <p align="left">
 A fast learner and early adopter with proficiency in HTML5, CSS3, JavaScript, ES6, React, and so on including their modern frameworks and libraries. Currently available to work both solo and collaboratively.
 </p>
 
-<h3 align="left">👨‍💻 Skills & Experiance:</h3>
+<h2 align="left">👨‍💻 Skills & Experiance:</h2>
 <p align="left">
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS <br>

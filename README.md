@@ -1,5 +1,5 @@
 # Hi there 👋, I'm ABIR
-### 👨‍💻 Front-End Web Developer</b> at <b>TOERUS<b/>
+### 👨‍💻 Currently, working as <code style="color : #cfe4c3">Front-End Web Developer</code> at [TOERUS](https://www.facebook.com/teamtoerus)
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 

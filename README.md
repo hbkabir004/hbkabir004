@@ -1,13 +1,10 @@
-# Hi there 👋, I'm ABIR
-### 👨‍💻 Currently, working as <code style="color : #cfe4c3">Front-End Web Developer</code> at [TOERUS](https://www.facebook.com/teamtoerus)
-🖊️ Love to write code <br>
-🎤 Like to share my knowledge <br>
+<h1><p align="center">Hello, I'm ABIR! <a href="https://www.github.com/imtiazaminsajid"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-
+<p align="center" ><img 
+ src="https://i.ibb.co/khQ4kyN/Git-Hub-Banner.png" width="100%"/></p>
+ 
 ## 🚀 About Me
-<p align="left">
-A fast learner and early adopter with proficiency in HTML5, CSS3, JavaScript, ES6, React, and so on including their modern frameworks and libraries. Currently available to work both solo and collaboratively.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=MERN+Stack+Developer;Front-End+Web+Developer+at+TOERUS;A+fast+learner+and+early+adopter;Proficiency+in+HTML5%2C+CSS3%2C+JavaScript%2C;ES6%2C+React%2C+and+so+on+including;including+their+modern+frameworks+and+libraries.;Love+to+write+CODE;Like+to+share+my+knowledge)](https://git.io/typing-svg)
 
 ## 👨‍💻 Skills & Experiance:
 
@@ -44,6 +41,8 @@ A fast learner and early adopter with proficiency in HTML5, CSS3, JavaScript, ES
 <a href="https://www.leetcode.com/aungstrome315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aungstrome315" height="30" width="40" /></a>
 <a href="https://hbkabir004.github.io/about/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hbkabir004.github.io" height="30" width="40" /></a>
 </p>
+
+<br>
 
 ### 👁️ Visitor Count
 

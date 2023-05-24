@@ -35,7 +35,7 @@
 ### ☕ Connect with me!
 
 <p align="left">
-<a href="https://linkedin.com/in/abircse004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abircse004" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abir-cse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abircse004" height="30" width="40" /></a>
 <a href="https://fb.com/abircse.nwu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abircse.nwu" height="30" width="40" /></a>
 <a href="https://instagram.com/hbk_abir315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hbk_abir315" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aungstrome315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aungstrome315" height="30" width="40" /></a>

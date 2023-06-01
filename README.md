@@ -34,7 +34,6 @@
  
   
 </div>
-<br>
 
 <div align="center">
  
@@ -47,8 +46,6 @@
 <a href="https://www.leetcode.com/aungstrome315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aungstrome315" height="30" width="40" /></a>
 <a href="https://hbkabir004.github.io/about/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hbkabir004.github.io" height="30" width="40" /></a>
 </p>
-
-<br>
 
 ### 👁️ Visitor Count
 

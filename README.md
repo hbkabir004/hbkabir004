@@ -1,6 +1,5 @@
 <h1><p align="center">Hello, I'm ABIR! <a href="https://www.github.com/imtiazaminsajid"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
  
-## 🚀 About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=MERN+Stack+Developer.+Currently+working+as+Front-End+Web+Developer;at+TOERUS.+Proficiency+in+HTML5%2C+CSS3%2C+JavaScript%2C+ES6%2C+React%2C+and;so+on+including+their+modern+frameworks+and+libraries.)](https://git.io/typing-svg)
 
 ## 👨‍💻 Skills & Experiance:

@@ -24,7 +24,7 @@
   
 <p align="center" >
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004/github-readme-stats) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=hbkabir004&theme=tokyonight&hide_border=true&background=1F222E" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004?tab=repositories) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=hbkabir004&theme=tokyonight&hide_border=true&background=1F222E" />
   
 </p>
   

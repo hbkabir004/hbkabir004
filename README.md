@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm ABIR! <a href="https://www.github.com/imtiazaminsajid"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=5&center=true&multiline=true&repeat=false&width=1100&height=120&lines=Frontend+Focused+Full+Stack+Developer.+Proficiency+in+JavaScript;ES6%2C+React%2C+HTML5%2C+CSS3+and+so+on+including;their+modern+frameworks+and+libraries.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=10&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=200&lines=In+the+capacity+of+a+Full-Stack+Web+Developer+with+2+years+of;professional+experience%2C+I+specialize+in+the+creation+of;modern%2C+functional%2C+and+responsive+web+applications;with+a+comprehensive+understanding;of+UI%2FUX+and+Webflow.)](https://git.io/typing-svg)
 
 <div align="center">
   

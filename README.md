@@ -1,43 +1,44 @@
 <h1 align="center">Hello, I'm ABIR! <a href="https://www.github.com/hbkabir004"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=10&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=200&lines=In+the+capacity+of+a+Full-Stack+Web+Developer+with+2+years+of;professional+experience%2C+I+specialize+in+the+creation+of;modern%2C+functional%2C+and+responsive+web+applications;with+a+comprehensive+understanding;of+UI%2FUX+and+Webflow.)](https://git.io/typing-svg)
 
 <div align="center">
-  
+
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=plastic)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 &nbsp;&nbsp;&nbsp;
 ![Front-end](https://img.shields.io/static/v1?label=&message=Front-end:&color=111&style=plastic)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-<br>
-![Back-end](https://img.shields.io/static/v1?label=&message=Back-end:&color=111&style=plastic) 
+`<br>`
+![Back-end](https://img.shields.io/static/v1?label=&message=Back-end:&color=111&style=plastic)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 &nbsp;&nbsp;&nbsp;
 ![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD:&color=111&style=plastic)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <details> 
   <summary> ✖️ Click to See More ✖️</summary>
-  <br/>  
-  
-  ### &#x1f4c8; GitHub Stats
-  
+  <br/>
+
+### &#x1f4c8; GitHub Stats
+
 <p align="center" >
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004?tab=repositories) 
-<img height="165" src="https://streak-stats.demolab.com?user=hbkabir004&theme=tokyonight&hide_border=true&background=1F222E" />
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004?tab=repositories)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hbkabir004&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </p>
-  
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+
+`<b>`Note:`</b>` Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 </details>
- 
-  
+
 </div>
 
 <div align="center">
- 
+
 ### ☕ Connect with me!
 
 <p align="center">
@@ -51,4 +52,5 @@
 ### 👁️ Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/hbkabir004/count.svg)
+
 </div>

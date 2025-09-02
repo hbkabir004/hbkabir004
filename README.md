@@ -26,8 +26,9 @@
 
 <p align="center" >
 
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=hbkabir004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hbkabir004&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com?user=hbkabir004&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)
 
 </p>
 

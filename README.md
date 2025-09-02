@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm ABIR! <a href="https://www.github.com/imtiazaminsajid"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1 align="center">Hello, I'm ABIR! <a href="https://www.github.com/hbkabir004"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=10&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=200&lines=In+the+capacity+of+a+Full-Stack+Web+Developer+with+2+years+of;professional+experience%2C+I+specialize+in+the+creation+of;modern%2C+functional%2C+and+responsive+web+applications;with+a+comprehensive+understanding;of+UI%2FUX+and+Webflow.)](https://git.io/typing-svg)
 
@@ -24,7 +24,8 @@
   
 <p align="center" >
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004?tab=repositories) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=hbkabir004&theme=tokyonight&hide_border=true&background=1F222E" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkabir004&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,python,tsql,hack)](https://github.com/hbkabir004?tab=repositories) 
+<img height="165" src="https://streak-stats.demolab.com?user=hbkabir004&theme=tokyonight&hide_border=true&background=1F222E" />
   
 </p>
   
@@ -49,7 +50,5 @@
 
 ### 👁️ Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hbkabir004/count.svg)
 </div>
-
-

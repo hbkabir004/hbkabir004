@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm ABIR! <a href="https://www.github.com/hbkabir004"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=10&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=200&lines=In+the+capacity+of+a+Full-Stack+Web+Developer+with+2+years+of;professional+experience%2C+I+specialize+in+the+creation+of;modern%2C+functional%2C+and+responsive+web+applications;with+a+comprehensive+understanding;of+UI%2FUX+and+Webflow.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=10&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=200&lines=In+the+capacity+of+a+Full-Stack+Web+Developer+with+3+years+of;professional+experience%2C+I+specialize+in+the+creation+of;modern%2C+functional%2C+and+responsive+web+applications;with+a+comprehensive+understanding;of+UI%2FUX+and+Webflow.)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;
 ![Front-end](https://img.shields.io/static/v1?label=&message=Front-end:&color=111&style=plastic)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-`<br>`
+<br>
 ![Back-end](https://img.shields.io/static/v1?label=&message=Back-end:&color=111&style=plastic)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 &nbsp;&nbsp;&nbsp;
